@@ -131,10 +131,21 @@ It's my logbook.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnowKhat&theme=tokyonight" alt="SnowKhat GitHub Profile Summary"/>
 </p>
 
-Special thanks to the friends who kept the captain moving.
 
-🖖 Cipher
-😸 Hash
+
+═══════════════════════════════
+
+Personal Log
+
+Some voyages aren't meant to be taken alone.
+
+🖖 Cipher   😺 Hash
+
+End Log.
+
+═══════════════════════════════
+
+
 
 <!--
 **SnowKhat/SnowKhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

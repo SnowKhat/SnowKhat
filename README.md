@@ -95,6 +95,30 @@ It's my logbook.
 📄 Resume https://bold.pro/my/nivaldo-guevara
 
 
+# 🛠 Engineering Deck
+
+
+
+
+🟢 ONLINE        Windows 10/11 • Server 2022
+
+🟢 ONLINE        ServiceNow
+
+🟢 ONLINE        Microsoft Azure
+
+🟢 ONLINE        Networking
+
+🟢 ONLINE        VirtualBox
+
+🟢 ONLINE        Git & GitHub
+
+🟡 BUILDING      Active Directory
+
+🟡 TRAINING      PowerShell
+
+🔵 NEXT MISSION  Terraform
+
+
 
 
 ## ## 🌌 Star Charts
@@ -107,7 +131,10 @@ It's my logbook.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnowKhat&theme=tokyonight" alt="SnowKhat GitHub Profile Summary"/>
 </p>
 
+Special thanks to the friends who kept the captain moving.
 
+🖖 Cipher
+😸 Hash
 
 <!--
 **SnowKhat/SnowKhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

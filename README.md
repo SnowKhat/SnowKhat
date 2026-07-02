@@ -86,8 +86,19 @@ It's my logbook.
 
 
 
+## 🌌 Star Charts
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowKhat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="SnowKhat GitHub Stats"/>
+</p>
 
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=SnowKhat&theme=tokyonight&hide_border=true" alt="SnowKhat GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowKhat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="SnowKhat Top Languages"/>
+</p>
 
 
 

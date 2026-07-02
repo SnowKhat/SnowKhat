@@ -1,7 +1,7 @@
 ##
 ══════════════════════════════════════════════════════════════════════════════════
 
- USS SNOWKHAT
+ # 🛸 USS SNOWKHAT
  Captain: Nivaldo Guevara
 
  Mission:
@@ -19,7 +19,7 @@
 
 ##
 
-## Captain's Log
+# 🖖 Captain's Log
 
 My journey into Information Technology began with a decision to stop waiting for experience and start building it.
 
@@ -33,7 +33,7 @@ It's my logbook.
 
 
 
-## MISSION STATUS
+# 🛰️ Mission Status
 
 🟢 Security+ ............... COMPLETE
 
@@ -54,7 +54,7 @@ It's my logbook.
 🟡 First IT Position ....... CURRENT OBJECTIVE
 
 
-## Federation Commendations
+# 🏅 Federation Commendations
   Click the badge to verify credential.
 </p>
 
@@ -74,7 +74,7 @@ It's my logbook.
 </a>
 
 
-## Ship's Database
+# 📂 Mission Archive
 
 
 - [ Wi-Fi Connectivity Issue](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC000001%20-%20Wi-Fi%20Connectivity%20Issue.md)
@@ -83,21 +83,28 @@ It's my logbook.
 
 - [Remote Access VPN Connection](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC003%20Remote%20Access%20VPN.md) 
 
+ # 📡 Hail Frequencies
+
+
+💼 LinkedIn www.linkedin.com/in/nivaldoguevara
+
+📧 Email Nivaldo_guevara@yahoo.com
+
+🛡️ TryHackMe https://tryhackme.com/p/Snowkatt
+
+📄 Resume https://bold.pro/my/nivaldo-guevara
 
 
 
-## 🌌 Star Charts
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowKhat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="SnowKhat GitHub Stats"/>
-</p>
+## ## 🌌 Star Charts
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=SnowKhat&theme=tokyonight&hide_border=true" alt="SnowKhat GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowKhat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="SnowKhat Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnowKhat&theme=tokyonight" alt="SnowKhat GitHub Profile Summary"/>
 </p>
 
 

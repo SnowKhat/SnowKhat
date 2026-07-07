@@ -1,7 +1,12 @@
 ##
+
+<p align="center">
+  <img src="assets/uss_snowkhat_animated_banner.gif" alt="USS SnowKhat Animated Banner" />
+</p>
+
 ══════════════════════════════════════════════════════════════════════════════════
 
- # 🛸 USS SNOWKHAT
+ # 🛸 
  Captain: Nivaldo Guevara
 
  Mission:

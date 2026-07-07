@@ -12,10 +12,12 @@
 ══════════════════════════════════════════════════════════════════════════════════
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=CompTIA+Security%2B+Certified;Microsoft+Certified%3A+Azure+Fundamentals;Google+IT+Support+Professional;Building+Real-World+IT+Labs;ServiceNow+%E2%80%A2+Active+Directory+%E2%80%A2+Windows+Server;Always+Learning.+Always+Building." />
+</p>
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=435&lines=CompTIA+Security%2B+Certified;++Microsoft+AZ900+Certified;Google+IT+Support+Professional;Building+Enterprise+Home+Labs;+++Learning+Active+Directory+Admin;Exploring+Strange+New+Technologies...)](https://git.io/typing-svg)
 
 ##
 

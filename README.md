@@ -88,7 +88,13 @@ It's my logbook.
 
 - [ Password Reset Account Lockout ](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC002%20-%20Password%20Reset%20Account%20Lockout.md) 
 
-- [Remote Access VPN Connection](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC003%20Remote%20Access%20VPN.md) 
+- [Remote Access VPN Connection](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC003%20Remote%20Access%20VPN.md)
+
+# Subsection 2 -SnowLab-Enterprise-Infrastructure 
+
+
+- [Active Directory/Domain Controller](https://github.com/SnowKhat/SnowLab-Enterprise-Infrastructure)
+
 
  # 📡 Hail Frequencies
 

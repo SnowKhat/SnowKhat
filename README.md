@@ -52,9 +52,9 @@ It's my logbook.
 
 🟢 ServiceNow Lab .......... COMPLETE
 
-🟡 Active Directory ........ IN PROGRESS
+🟢 Active Directory ........ COMPLETE
 
-🟡 Windows Server .......... IN PROGRESS
+🟢 Windows Server .......... COMPLETE
 
 🟡 Terraform ............... PLANNED
 

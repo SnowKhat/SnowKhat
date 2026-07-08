@@ -105,7 +105,7 @@ It's my logbook.
 
 🛡️ TryHackMe https://tryhackme.com/p/Snowkatt
 
-📄 Resume https://bold.pro/my/nivaldo-guevara
+
 
 
 # 🛠 Engineering Deck
